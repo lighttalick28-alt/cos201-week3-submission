@@ -1,4 +1,4 @@
-# COS 201 - Week 3 Assignment
+# COS 201 - Week 1,2&3 Assignment
 
 **Student Name:** Talick Light Uche  
 **Matriculation Number:** 25/17308  
